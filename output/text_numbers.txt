@@ -1,0 +1,10 @@
+Florida population 50+, average 2023-2024: 9,619,296
+Florida population 65+, average 2011-2013: 3,490,462  2023-2024: 5,121,640
+All-serotype IPD cases averted, 50+, 2023-2024: 2,370 (2,220–2,520)
+All-serotype IPD deaths averted, 50+, 2023-2024: 319 (287–353)
+Comparison-serotype rate, 50-64: 1998-1999 5.9  2013 12.2  2023 9.3  2024 9.1
+Comparison-serotype rate, 65+: 1998-1999 12.9  2013 21.2  2023 15.1  2024 14.9
+All-serotype rate, 65+: 2019 23.7  2024 22.9
+Largest difference, calculated minus published PCV13 rate: 0.09
+IPD case fatality in the analysis periods, 50-64: 9.6 to 11.0 percent
+IPD case fatality in the analysis periods, 65+: 13.5 to 17.2 percent

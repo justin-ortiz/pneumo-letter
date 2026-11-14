@@ -1,0 +1,1678 @@
+"Year","Value","Units","Bacteria","Topic","ViewBy","ViewBy2"
+"1997","142.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","<1 year old"
+"1997","178.7","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","1 year old"
+"1997","9.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","18-34 years old"
+"1997","31","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","2-4 years old"
+"1997","18.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","35-49 years old"
+"1997","23.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","50-64 years old"
+"1997","4.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","5-17 years old"
+"1997","61.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","≥65 years old"
+"1997","23.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","Overall"
+"1997","23.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Overall",
+"1997","49.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Black"
+"1997","8.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Other races"
+"1997","23.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Overall"
+"1997","19.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","White"
+"1997","4","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","<1 year old"
+"1997","0.9","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","1 year old"
+"1997","0.52","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","18-34 years old"
+"1997","0.15","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","2-4 years old"
+"1997","1.65","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","35-49 years old"
+"1997","2.72","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","50-64 years old"
+"1997","0.14","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","5-17 years old"
+"1997","11.08","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","≥65 years old"
+"1997","2.3","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","Overall"
+"1997","2.3","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Overall",
+"1997","6,100","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of deaths"
+"1997","55,700","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of survivals"
+"1997","61,800","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Total cases"
+"1997","0.525","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia with pneumonia",
+"1997","0.393","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia without focus",
+"1997","0.048","Percent","Streptococcus pneumoniae","Syndromes","Meningitis",
+"1998","0.067","Percent","Streptococcus pneumoniae","Antibiotic resistance","Cefotaxime4",
+"1998","0.152","Percent","Streptococcus pneumoniae","Antibiotic resistance","Erythromycin",
+"1998","0.002","Percent","Streptococcus pneumoniae","Antibiotic resistance","Levofloxacin",
+"1998","3,627","Counts","Streptococcus pneumoniae","Antibiotic resistance","Number of isolates",
+"1998","0.246","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin1",
+"1998","0.079","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin2",
+"1998",,"Percent","Streptococcus pneumoniae","Antibiotic resistance","Tetracycline3",
+"1998","0.29","Percent","Streptococcus pneumoniae","Antibiotic resistance","TMPsulfa",
+"1998","0","Percent","Streptococcus pneumoniae","Antibiotic resistance","Vancomycin",
+"1998","165.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","<1 year old"
+"1998","202.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","1 year old"
+"1998","8.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","18-34 years old"
+"1998","36.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","2-4 years old"
+"1998","17.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","35-49 years old"
+"1998","24.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","50-64 years old"
+"1998","4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","5-17 years old"
+"1998","60.7","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","≥65 years old"
+"1998","24.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","Overall"
+"1998","24.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Overall",
+"1998","49.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Black"
+"1998","13.7","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Other races"
+"1998","24.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Overall"
+"1998","19.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","White"
+"1998","2.07","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","<1 year old"
+"1998","1.26","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","1 year old"
+"1998","0.35","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","18-34 years old"
+"1998","0","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","2-4 years old"
+"1998","1.96","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","35-49 years old"
+"1998","3.11","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","50-64 years old"
+"1998","0.1","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","5-17 years old"
+"1998","10.08","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","≥65 years old"
+"1998","2.2","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","Overall"
+"1998","2.2","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Overall",
+"1998","6,100","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of deaths"
+"1998","56,900","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of survivals"
+"1998","63,000","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Total cases"
+"1998","95.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","All Serotypes"
+"1998","13.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","All Serotypes"
+"1998","24.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","All Serotypes"
+"1998","60.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","All Serotypes"
+"1998","87.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV13 Serotypes"
+"1998","9.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV13 Serotypes"
+"1998","17.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV13 Serotypes"
+"1998","44.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV13 Serotypes"
+"1998","88.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV15 Serotypes"
+"1998","10.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV15 Serotypes"
+"1998","19.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV15 Serotypes"
+"1998","48.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV15 Serotypes"
+"1998","90.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV20 Serotypes"
+"1998","11.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV20 Serotypes"
+"1998","0.537","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia with pneumonia",
+"1998","0.385","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia without focus",
+"1998","0.041","Percent","Streptococcus pneumoniae","Syndromes","Meningitis",
+"1999","0.066","Percent","Streptococcus pneumoniae","Antibiotic resistance","Cefotaxime4",
+"1999","0.206","Percent","Streptococcus pneumoniae","Antibiotic resistance","Erythromycin",
+"1999","0.003","Percent","Streptococcus pneumoniae","Antibiotic resistance","Levofloxacin",
+"1999","3,979","Counts","Streptococcus pneumoniae","Antibiotic resistance","Number of isolates",
+"1999","0.2661","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin1",
+"1999","0.0947","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin2",
+"1999",,"Percent","Streptococcus pneumoniae","Antibiotic resistance","Tetracycline3",
+"1999","0.321","Percent","Streptococcus pneumoniae","Antibiotic resistance","TMPsulfa",
+"1999","0","Percent","Streptococcus pneumoniae","Antibiotic resistance","Vancomycin",
+"1999","162.7","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","<1 year old"
+"1999","205.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","1 year old"
+"1999","7.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","18-34 years old"
+"1999","33.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","2-4 years old"
+"1999","19","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","35-49 years old"
+"1999","24.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","50-64 years old"
+"1999","4.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","5-17 years old"
+"1999","61.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","≥65 years old"
+"1999","24.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","Overall"
+"1999","24.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Overall",
+"1999","52","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Black"
+"1999","12.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Other races"
+"1999","24.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Overall"
+"1999","19.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","White"
+"1999","0.77","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","<1 year old"
+"1999","1.18","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","1 year old"
+"1999","0.51","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","18-34 years old"
+"1999","0.52","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","2-4 years old"
+"1999","1.89","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","35-49 years old"
+"1999","3.37","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","50-64 years old"
+"1999","0.09","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","5-17 years old"
+"1999","13.11","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","≥65 years old"
+"1999","2.6","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","Overall"
+"1999","2.6","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Overall",
+"1999","7,300","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of deaths"
+"1999","57,100","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of survivals"
+"1999","64,400","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Total cases"
+"1998","21.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV20 Serotypes"
+"1998","54.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV20 Serotypes"
+"1998","4.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV21 Serotypes"
+"1998","9.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV21 Serotypes"
+"1998","21.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV21 Serotypes"
+"1998","11.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PPSV23 Serotypes"
+"1998","21.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PPSV23 Serotypes"
+"1998","52.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PPSV23 Serotypes"
+"1999","93.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","All Serotypes"
+"1999","13.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","All Serotypes"
+"1999","24.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","All Serotypes"
+"1999","61.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","All Serotypes"
+"1999","87.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV13 Serotypes"
+"1999","10.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV13 Serotypes"
+"1999","0.537","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia with pneumonia",
+"1999","0.376","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia without focus",
+"1999","0.052","Percent","Streptococcus pneumoniae","Syndromes","Meningitis",
+"2000","0.084","Percent","Streptococcus pneumoniae","Antibiotic resistance","Cefotaxime4",
+"2000","0.217","Percent","Streptococcus pneumoniae","Antibiotic resistance","Erythromycin",
+"2000","0.003","Percent","Streptococcus pneumoniae","Antibiotic resistance","Levofloxacin",
+"2000","3,771","Counts","Streptococcus pneumoniae","Antibiotic resistance","Number of isolates",
+"2000","0.2712","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin1",
+"2000","0.0984","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin2",
+"2000",,"Percent","Streptococcus pneumoniae","Antibiotic resistance","Tetracycline3",
+"2000","0.322","Percent","Streptococcus pneumoniae","Antibiotic resistance","TMPsulfa",
+"2000","0","Percent","Streptococcus pneumoniae","Antibiotic resistance","Vancomycin",
+"2000","147.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","<1 year old"
+"2000","161.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","1 year old"
+"2000","6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","18-34 years old"
+"2000","30.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","2-4 years old"
+"2000","17.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","35-49 years old"
+"2000","23.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","50-64 years old"
+"2000","3.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","5-17 years old"
+"2000","57.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","≥65 years old"
+"2000","21.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","Overall"
+"2000","21.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Overall",
+"2000","41.7","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Black"
+"2000","6.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Other races"
+"2000","21.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Overall"
+"2000","18.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","White"
+"2000","3.4","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","<1 year old"
+"2000","3","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","1 year old"
+"2000","0.2","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","18-34 years old"
+"2000","0.5","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","2-4 years old"
+"2000","2","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","35-49 years old"
+"2000","3.1","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","50-64 years old"
+"2000","0.1","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","5-17 years old"
+"2000","10.7","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","≥65 years old"
+"2000","2.3","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","Overall"
+"2000","2.3","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Overall",
+"2000","6,600","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of deaths"
+"2000","51,800","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of survivals"
+"2000","58,400","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Total cases"
+"1999","17.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV13 Serotypes"
+"1999","46","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV13 Serotypes"
+"1999","88.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV15 Serotypes"
+"1999","10.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV15 Serotypes"
+"1999","19.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV15 Serotypes"
+"1999","48.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV15 Serotypes"
+"1999","90.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV20 Serotypes"
+"1999","12.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV20 Serotypes"
+"1999","21.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV20 Serotypes"
+"1999","52.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV20 Serotypes"
+"1999","4.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV21 Serotypes"
+"1999","9.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV21 Serotypes"
+"1999","21.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV21 Serotypes"
+"1999","12.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PPSV23 Serotypes"
+"2000","0.592","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia with pneumonia",
+"2000","0.303","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia without focus",
+"2000","0.054","Percent","Streptococcus pneumoniae","Syndromes","Meningitis",
+"2001","0.064","Percent","Streptococcus pneumoniae","Antibiotic resistance","Cefotaxime4",
+"2001","0.194","Percent","Streptococcus pneumoniae","Antibiotic resistance","Erythromycin",
+"2001","0.007","Percent","Streptococcus pneumoniae","Antibiotic resistance","Levofloxacin",
+"2001","3,486","Counts","Streptococcus pneumoniae","Antibiotic resistance","Number of isolates",
+"2001","0.253","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin1",
+"2001","0.0886","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin2",
+"2001",,"Percent","Streptococcus pneumoniae","Antibiotic resistance","Tetracycline3",
+"2001","0.296","Percent","Streptococcus pneumoniae","Antibiotic resistance","TMPsulfa",
+"2001","0","Percent","Streptococcus pneumoniae","Antibiotic resistance","Vancomycin",
+"2001","52.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","<1 year old"
+"2001","68.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","1 year old"
+"2001","5.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","18-34 years old"
+"2001","27.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","2-4 years old"
+"2001","16","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","35-49 years old"
+"2001","20.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","50-64 years old"
+"2001","3.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","5-17 years old"
+"2001","50.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","≥65 years old"
+"2001","17.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","Overall"
+"2001","17.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Overall",
+"2001","34.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Black"
+"2001","7.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Other races"
+"2001","17.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Overall"
+"2001","14.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","White"
+"2001","0.6","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","<1 year old"
+"2001","1.2","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","1 year old"
+"2001","0.3","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","18-34 years old"
+"2001","0.5","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","2-4 years old"
+"2001","1.8","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","35-49 years old"
+"2001","3.1","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","50-64 years old"
+"2001","0.1","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","5-17 years old"
+"2001","11.76","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","≥65 years old"
+"2001","2.3","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","Overall"
+"2001","2.3","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Overall",
+"2001","6,900","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of deaths"
+"2001","41,750","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of survivals"
+"2001","48,650","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Total cases"
+"1999","21.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PPSV23 Serotypes"
+"1999","50.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PPSV23 Serotypes"
+"2000","79.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","All Serotypes"
+"2000","11.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","All Serotypes"
+"2000","23.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","All Serotypes"
+"2000","57.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","All Serotypes"
+"2000","72.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV13 Serotypes"
+"2000","8.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV13 Serotypes"
+"2000","17.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV13 Serotypes"
+"2000","42.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV13 Serotypes"
+"2000","73.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV15 Serotypes"
+"2000","9.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV15 Serotypes"
+"2000","18.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV15 Serotypes"
+"2000","46.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV15 Serotypes"
+"2001","0.681","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia with pneumonia",
+"2001","0.229","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia without focus",
+"2001","0.053","Percent","Streptococcus pneumoniae","Syndromes","Meningitis",
+"2002","0.041","Percent","Streptococcus pneumoniae","Antibiotic resistance","Cefotaxime4",
+"2002","0.168","Percent","Streptococcus pneumoniae","Antibiotic resistance","Erythromycin",
+"2002","0.005","Percent","Streptococcus pneumoniae","Antibiotic resistance","Levofloxacin",
+"2002","3,152","Counts","Streptococcus pneumoniae","Antibiotic resistance","Number of isolates",
+"2002","0.2113","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin1",
+"2002","0.0571","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin2",
+"2002",,"Percent","Streptococcus pneumoniae","Antibiotic resistance","Tetracycline3",
+"2002","0.249","Percent","Streptococcus pneumoniae","Antibiotic resistance","TMPsulfa",
+"2002","0","Percent","Streptococcus pneumoniae","Antibiotic resistance","Vancomycin",
+"2002","38.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","<1 year old"
+"2002","31.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","1 year old"
+"2002","4.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","18-34 years old"
+"2002","15.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","2-4 years old"
+"2002","13.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","35-49 years old"
+"2002","18.7","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","50-64 years old"
+"2002","3.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","5-17 years old"
+"2002","43.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","≥65 years old"
+"2002","14.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","Overall"
+"2002","14.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Overall",
+"2002","26.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Black"
+"2002","5.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Other races"
+"2002","14.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Overall"
+"2002","12.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","White"
+"2002","0.8","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","<1 year old"
+"2002","0","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","1 year old"
+"2002","0.2","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","18-34 years old"
+"2002","0.3","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","2-4 years old"
+"2002","1.6","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","35-49 years old"
+"2002","2.8","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","50-64 years old"
+"2002","0.2","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","5-17 years old"
+"2002","9.11","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","≥65 years old"
+"2002","1.9","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","Overall"
+"2002","1.9","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Overall",
+"2002","5,700","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of deaths"
+"2002","35,200","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of survivals"
+"2002","40,900","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Total cases"
+"2000","75.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV20 Serotypes"
+"2000","10.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV20 Serotypes"
+"2000","21.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV20 Serotypes"
+"2000","50.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV20 Serotypes"
+"2000","4.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV21 Serotypes"
+"2000","9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV21 Serotypes"
+"2000","22.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV21 Serotypes"
+"2000","10.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PPSV23 Serotypes"
+"2000","20.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PPSV23 Serotypes"
+"2000","48.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PPSV23 Serotypes"
+"2001","40.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","All Serotypes"
+"2001","10.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","All Serotypes"
+"2001","20.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","All Serotypes"
+"2001","50.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","All Serotypes"
+"2002","0.689","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia with pneumonia",
+"2002","0.211","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia without focus",
+"2002","0.069","Percent","Streptococcus pneumoniae","Syndromes","Meningitis",
+"2003","0.031","Percent","Streptococcus pneumoniae","Antibiotic resistance","Cefotaxime4",
+"2003","0.174","Percent","Streptococcus pneumoniae","Antibiotic resistance","Erythromycin",
+"2003","0.004","Percent","Streptococcus pneumoniae","Antibiotic resistance","Levofloxacin",
+"2003","3,147","Counts","Streptococcus pneumoniae","Antibiotic resistance","Number of isolates",
+"2003","0.1992","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin1",
+"2003","0.0537","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin2",
+"2003","0.059","Percent","Streptococcus pneumoniae","Antibiotic resistance","Tetracycline3",
+"2003","0.233","Percent","Streptococcus pneumoniae","Antibiotic resistance","TMPsulfa",
+"2003","0","Percent","Streptococcus pneumoniae","Antibiotic resistance","Vancomycin",
+"2003","41.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","<1 year old"
+"2003","35.7","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","1 year old"
+"2003","4.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","18-34 years old"
+"2003","13.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","2-4 years old"
+"2003","13.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","35-49 years old"
+"2003","18.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","50-64 years old"
+"2003","3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","5-17 years old"
+"2003","42.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","≥65 years old"
+"2003","14","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","Overall"
+"2003","14","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Overall",
+"2003","26.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Black"
+"2003","6.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Other races"
+"2003","14","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Overall"
+"2003","12","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","White"
+"2003","1.1","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","<1 year old"
+"2003","0.53","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","1 year old"
+"2003","0.23","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","18-34 years old"
+"2003","0.18","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","2-4 years old"
+"2003","1.2","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","35-49 years old"
+"2003","2.5","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","50-64 years old"
+"2003","0.04","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","5-17 years old"
+"2003","9.11","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","≥65 years old"
+"2003","1.8","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","Overall"
+"2003","1.8","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Overall",
+"2003","5,450","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of deaths"
+"2003","34,950","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of survivals"
+"2003","40,400","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Total cases"
+"2001","33.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV13 Serotypes"
+"2001","7.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV13 Serotypes"
+"2001","14.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV13 Serotypes"
+"2001","35.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV13 Serotypes"
+"2001","35.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV15 Serotypes"
+"2001","7.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV15 Serotypes"
+"2001","15.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV15 Serotypes"
+"2001","39.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV15 Serotypes"
+"2001","37.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV20 Serotypes"
+"2001","9.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV20 Serotypes"
+"2001","17.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV20 Serotypes"
+"2001","43.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV20 Serotypes"
+"2001","4.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV21 Serotypes"
+"2001","8.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV21 Serotypes"
+"2003","0.679","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia with pneumonia",
+"2003","0.217","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia without focus",
+"2003","0.066","Percent","Streptococcus pneumoniae","Syndromes","Meningitis",
+"2004","0.041","Percent","Streptococcus pneumoniae","Antibiotic resistance","Cefotaxime4",
+"2004","0.176","Percent","Streptococcus pneumoniae","Antibiotic resistance","Erythromycin",
+"2004","0.005","Percent","Streptococcus pneumoniae","Antibiotic resistance","Levofloxacin",
+"2004","3,013","Counts","Streptococcus pneumoniae","Antibiotic resistance","Number of isolates",
+"2004","0.2131","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin1",
+"2004","0.0484","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin2",
+"2004","0.073","Percent","Streptococcus pneumoniae","Antibiotic resistance","Tetracycline3",
+"2004","0.22","Percent","Streptococcus pneumoniae","Antibiotic resistance","TMPsulfa",
+"2004","0","Percent","Streptococcus pneumoniae","Antibiotic resistance","Vancomycin",
+"2004","37","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","<1 year old"
+"2004","31.7","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","1 year old"
+"2004","3.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","18-34 years old"
+"2004","12.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","2-4 years old"
+"2004","10.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","35-49 years old"
+"2004","18.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","50-64 years old"
+"2004","2.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","5-17 years old"
+"2004","38.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","≥65 years old"
+"2004","12.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","Overall"
+"2004","12.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Overall",
+"2004","22.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Black"
+"2004","9.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Other races"
+"2004","12.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Overall"
+"2004","11.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","White"
+"2004","0.97","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","<1 year old"
+"2004","1.2","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","1 year old"
+"2004","0.26","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","18-34 years old"
+"2004","0.17","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","2-4 years old"
+"2004","0.96","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","35-49 years old"
+"2004","2.8","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","50-64 years old"
+"2004","0.06","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","5-17 years old"
+"2004","7.2","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","≥65 years old"
+"2004","1.6","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","Overall"
+"2004","1.6","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Overall",
+"2004","4,900","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of deaths"
+"2004","32,875","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of survivals"
+"2004","37,775","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Total cases"
+"2001","22.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV21 Serotypes"
+"2001","9.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PPSV23 Serotypes"
+"2001","17.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PPSV23 Serotypes"
+"2001","41.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PPSV23 Serotypes"
+"2002","23.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","All Serotypes"
+"2002","8.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","All Serotypes"
+"2002","18.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","All Serotypes"
+"2002","43.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","All Serotypes"
+"2002","15.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV13 Serotypes"
+"2002","5.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV13 Serotypes"
+"2002","11.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV13 Serotypes"
+"2002","28.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV13 Serotypes"
+"2002","17.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV15 Serotypes"
+"2002","6.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV15 Serotypes"
+"2004","0.67","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia with pneumonia",
+"2004","0.228","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia without focus",
+"2004","0.061","Percent","Streptococcus pneumoniae","Syndromes","Meningitis",
+"2005","0.053","Percent","Streptococcus pneumoniae","Antibiotic resistance","Cefotaxime4",
+"2005","0.202","Percent","Streptococcus pneumoniae","Antibiotic resistance","Erythromycin",
+"2005","0.006","Percent","Streptococcus pneumoniae","Antibiotic resistance","Levofloxacin",
+"2005","3,381","Counts","Streptococcus pneumoniae","Antibiotic resistance","Number of isolates",
+"2005","0.2343","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin1",
+"2005","0.067","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin2",
+"2005","0.094","Percent","Streptococcus pneumoniae","Antibiotic resistance","Tetracycline3",
+"2005","0.219","Percent","Streptococcus pneumoniae","Antibiotic resistance","TMPsulfa",
+"2005","0","Percent","Streptococcus pneumoniae","Antibiotic resistance","Vancomycin",
+"2005","36.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","<1 year old"
+"2005","35.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","1 year old"
+"2005","4.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","18-34 years old"
+"2005","12.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","2-4 years old"
+"2005","12.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","35-49 years old"
+"2005","20.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","50-64 years old"
+"2005","3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","5-17 years old"
+"2005","39.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","≥65 years old"
+"2005","14.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","Overall"
+"2005","14.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Overall",
+"2005","25","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Black"
+"2005","8.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Other races"
+"2005","14.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Overall"
+"2005","12.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","White"
+"2005","0.97","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","<1 year old"
+"2005","0.24","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","1 year old"
+"2005","0.17","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","18-34 years old"
+"2005","0.33","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","2-4 years old"
+"2005","1.1","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","35-49 years old"
+"2005","2.7","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","50-64 years old"
+"2005","0.1","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","5-17 years old"
+"2005","6.9","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","≥65 years old"
+"2005","1.6","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","Overall"
+"2005","1.6","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Overall",
+"2005","4,850","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of deaths"
+"2005","36,700","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of survivals"
+"2005","41,550","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Total cases"
+"2002","12.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV15 Serotypes"
+"2002","32.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV15 Serotypes"
+"2002","19.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV20 Serotypes"
+"2002","7.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV20 Serotypes"
+"2002","15.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV20 Serotypes"
+"2002","36","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV20 Serotypes"
+"2002","4.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV21 Serotypes"
+"2002","10.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV21 Serotypes"
+"2002","22.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV21 Serotypes"
+"2002","7.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PPSV23 Serotypes"
+"2002","15","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PPSV23 Serotypes"
+"2002","34.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PPSV23 Serotypes"
+"2003","23.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","All Serotypes"
+"2003","8.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","All Serotypes"
+"2005","0.687","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia with pneumonia",
+"2005","0.221","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia without focus",
+"2005","0.058","Percent","Streptococcus pneumoniae","Syndromes","Meningitis",
+"2006","0.062","Percent","Streptococcus pneumoniae","Antibiotic resistance","Cefotaxime4",
+"2006","0.216","Percent","Streptococcus pneumoniae","Antibiotic resistance","Erythromycin",
+"2006","0.005","Percent","Streptococcus pneumoniae","Antibiotic resistance","Levofloxacin",
+"2006","3,460","Counts","Streptococcus pneumoniae","Antibiotic resistance","Number of isolates",
+"2006","0.2553","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin1",
+"2006","0.0803","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin2",
+"2006","0.113","Percent","Streptococcus pneumoniae","Antibiotic resistance","Tetracycline3",
+"2006","0.227","Percent","Streptococcus pneumoniae","Antibiotic resistance","TMPsulfa",
+"2006","0","Percent","Streptococcus pneumoniae","Antibiotic resistance","Vancomycin",
+"2006","33.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","<1 year old"
+"2006","36.7","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","1 year old"
+"2006","4.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","18-34 years old"
+"2006","11.7","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","2-4 years old"
+"2006","12","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","35-49 years old"
+"2006","20","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","50-64 years old"
+"2006","3.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","5-17 years old"
+"2006","40.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","≥65 years old"
+"2006","13.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","Overall"
+"2006","13.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Overall",
+"2006","25.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Black"
+"2006","12.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Other races"
+"2006","13.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Overall"
+"2006","11.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","White"
+"2006","0.71","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","<1 year old"
+"2006","0.24","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","1 year old"
+"2006","0.23","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","18-34 years old"
+"2006","0.39","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","2-4 years old"
+"2006","1.13","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","35-49 years old"
+"2006","2.38","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","50-64 years old"
+"2006","0.08","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","5-17 years old"
+"2006","7.61","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","≥65 years old"
+"2006","1.6","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","Overall"
+"2006","1.6","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Overall",
+"2006","5,000","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of deaths"
+"2006","36,400","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of survivals"
+"2006","41,400","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Total cases"
+"2003","18.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","All Serotypes"
+"2003","42.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","All Serotypes"
+"2003","14","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV13 Serotypes"
+"2003","4.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV13 Serotypes"
+"2003","10","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV13 Serotypes"
+"2003","23.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV13 Serotypes"
+"2003","17.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV15 Serotypes"
+"2003","5.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV15 Serotypes"
+"2003","11.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV15 Serotypes"
+"2003","28.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV15 Serotypes"
+"2003","19.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV20 Serotypes"
+"2003","7.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV20 Serotypes"
+"2003","14","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV20 Serotypes"
+"2003","33.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV20 Serotypes"
+"2006","0.665","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia with pneumonia",
+"2006","0.23","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia without focus",
+"2006","0.061","Percent","Streptococcus pneumoniae","Syndromes","Meningitis",
+"2007","0.069","Percent","Streptococcus pneumoniae","Antibiotic resistance","Cefotaxime4",
+"2007","0.2279","Percent","Streptococcus pneumoniae","Antibiotic resistance","Erythromycin",
+"2007","0.005","Percent","Streptococcus pneumoniae","Antibiotic resistance","Levofloxacin",
+"2007","3,536","Counts","Streptococcus pneumoniae","Antibiotic resistance","Number of isolates",
+"2007","0.2561","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin1",
+"2007","0.0811","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin2",
+"2007","0.125","Percent","Streptococcus pneumoniae","Antibiotic resistance","Tetracycline3",
+"2007","0.22","Percent","Streptococcus pneumoniae","Antibiotic resistance","TMPsulfa",
+"2007","0","Percent","Streptococcus pneumoniae","Antibiotic resistance","Vancomycin",
+"2007","40.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","<1 year old"
+"2007","32.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","1 year old"
+"2007","4.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","18-34 years old"
+"2007","13","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","2-4 years old"
+"2007","11.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","35-49 years old"
+"2007","20.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","50-64 years old"
+"2007","2.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","5-17 years old"
+"2007","39.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","≥65 years old"
+"2007","14","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","Overall"
+"2007","14","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Overall",
+"2007","23.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Black"
+"2007","13","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Other races"
+"2007","14","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Overall"
+"2007","12.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","White"
+"2007","0.9","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","<1 year old"
+"2007","0.23","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","1 year old"
+"2007","0.22","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","18-34 years old"
+"2007","0.08","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","2-4 years old"
+"2007","0.98","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","35-49 years old"
+"2007","2.33","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","50-64 years old"
+"2007","0.14","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","5-17 years old"
+"2007","6.31","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","≥65 years old"
+"2007","1.5","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","Overall"
+"2007","1.5","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Overall",
+"2007","4,500","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of deaths"
+"2007","37,500","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of survivals"
+"2007","42,000","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Total cases"
+"2003","5.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV21 Serotypes"
+"2003","11","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV21 Serotypes"
+"2003","27.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV21 Serotypes"
+"2003","7.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PPSV23 Serotypes"
+"2003","13.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PPSV23 Serotypes"
+"2003","32","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PPSV23 Serotypes"
+"2004","21.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","All Serotypes"
+"2004","7.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","All Serotypes"
+"2004","18.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","All Serotypes"
+"2004","38.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","All Serotypes"
+"2004","12.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV13 Serotypes"
+"2004","3.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV13 Serotypes"
+"2004","10","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV13 Serotypes"
+"2004","20.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV13 Serotypes"
+"2007","0.677","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia with pneumonia",
+"2007","0.211","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia without focus",
+"2007","0.059","Percent","Streptococcus pneumoniae","Syndromes","Meningitis",
+"2008","0.073","Percent","Streptococcus pneumoniae","Antibiotic resistance","Cefotaxime4",
+"2008","0.237","Percent","Streptococcus pneumoniae","Antibiotic resistance","Erythromycin",
+"2008","0.004","Percent","Streptococcus pneumoniae","Antibiotic resistance","Levofloxacin",
+"2008","3,683","Counts","Streptococcus pneumoniae","Antibiotic resistance","Number of isolates",
+"2008","0.2389","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin1",
+"2008","0.0866","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin2",
+"2008","0.127","Percent","Streptococcus pneumoniae","Antibiotic resistance","Tetracycline3",
+"2008","0.216","Percent","Streptococcus pneumoniae","Antibiotic resistance","TMPsulfa",
+"2008","0","Percent","Streptococcus pneumoniae","Antibiotic resistance","Vancomycin",
+"2008","36.7","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","<1 year old"
+"2008","31.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","1 year old"
+"2008","4.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","18-34 years old"
+"2008","11.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","2-4 years old"
+"2008","13","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","35-49 years old"
+"2008","21","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","50-64 years old"
+"2008","2.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","5-17 years old"
+"2008","40.7","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","≥65 years old"
+"2008","14.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","Overall"
+"2008","14.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Overall",
+"2008","23.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Black"
+"2008","13.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Other races"
+"2008","14.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Overall"
+"2008","12.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","White"
+"2008","0.9","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","<1 year old"
+"2008","0","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","1 year old"
+"2008","0.11","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","18-34 years old"
+"2008","0.15","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","2-4 years old"
+"2008","1.07","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","35-49 years old"
+"2008","2.21","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","50-64 years old"
+"2008","0.04","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","5-17 years old"
+"2008","6.5","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","≥65 years old"
+"2008","1.4","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","Overall"
+"2008","1.4","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Overall",
+"2008","4,500","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of deaths"
+"2008","39,500","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of survivals"
+"2008","44,000","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Total cases"
+"2004","15.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV15 Serotypes"
+"2004","4.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV15 Serotypes"
+"2004","12.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV15 Serotypes"
+"2004","24.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV15 Serotypes"
+"2004","16.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV20 Serotypes"
+"2004","5.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV20 Serotypes"
+"2004","14.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV20 Serotypes"
+"2004","28.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV20 Serotypes"
+"2004","5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV21 Serotypes"
+"2004","12.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV21 Serotypes"
+"2004","26.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV21 Serotypes"
+"2004","6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PPSV23 Serotypes"
+"2004","14.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PPSV23 Serotypes"
+"2004","27.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PPSV23 Serotypes"
+"2008","0.699","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia with pneumonia",
+"2008","0.188","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia without focus",
+"2008","0.063","Percent","Streptococcus pneumoniae","Syndromes","Meningitis",
+"2009","0.081","Percent","Streptococcus pneumoniae","Antibiotic resistance","Cefotaxime4",
+"2009","0.251","Percent","Streptococcus pneumoniae","Antibiotic resistance","Erythromycin",
+"2009","0.004","Percent","Streptococcus pneumoniae","Antibiotic resistance","Levofloxacin",
+"2009","3,741","Counts","Streptococcus pneumoniae","Antibiotic resistance","Number of isolates",
+"2009","0.2653","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin1",
+"2009","0.1018","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin2",
+"2009","0.148","Percent","Streptococcus pneumoniae","Antibiotic resistance","Tetracycline3",
+"2009","0.23","Percent","Streptococcus pneumoniae","Antibiotic resistance","TMPsulfa",
+"2009","0","Percent","Streptococcus pneumoniae","Antibiotic resistance","Vancomycin",
+"2009","37.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","<1 year old"
+"2009","32.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","1 year old"
+"2009","4.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","18-34 years old"
+"2009","13.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","2-4 years old"
+"2009","11.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","35-49 years old"
+"2009","21.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","50-64 years old"
+"2009","3.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","5-17 years old"
+"2009","38.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","≥65 years old"
+"2009","14.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","Overall"
+"2009","14.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Overall",
+"2009","21.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Black"
+"2009","14.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Other races"
+"2009","14.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Overall"
+"2009","12.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","White"
+"2009","0.9","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","<1 year old"
+"2009","0.22","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","1 year old"
+"2009","0.2","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","18-34 years old"
+"2009","0.07","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","2-4 years old"
+"2009","0.82","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","35-49 years old"
+"2009","2.59","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","50-64 years old"
+"2009","0.08","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","5-17 years old"
+"2009","6.56","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","≥65 years old"
+"2009","1.5","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","Overall"
+"2009","1.5","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Overall",
+"2009","5,000","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of deaths"
+"2009","39,000","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of survivals"
+"2009","44,000","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Total cases"
+"2005","21.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","All Serotypes"
+"2005","8.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","All Serotypes"
+"2005","20.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","All Serotypes"
+"2005","39.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","All Serotypes"
+"2005","12.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV13 Serotypes"
+"2005","4.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV13 Serotypes"
+"2005","9.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV13 Serotypes"
+"2005","19.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV13 Serotypes"
+"2005","15.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV15 Serotypes"
+"2005","5.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV15 Serotypes"
+"2005","12.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV15 Serotypes"
+"2005","24.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV15 Serotypes"
+"2005","17.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV20 Serotypes"
+"2005","6.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV20 Serotypes"
+"2009","0.704","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia with pneumonia",
+"2009","0.192","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia without focus",
+"2009","0.048","Percent","Streptococcus pneumoniae","Syndromes","Meningitis",
+"2010","0.086","Percent","Streptococcus pneumoniae","Antibiotic resistance","Cefotaxime4",
+"2010","0.262","Percent","Streptococcus pneumoniae","Antibiotic resistance","Erythromycin",
+"2010","0.003","Percent","Streptococcus pneumoniae","Antibiotic resistance","Levofloxacin",
+"2010","3,446","Counts","Streptococcus pneumoniae","Antibiotic resistance","Number of isolates",
+"2010","0.2525","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin1",
+"2010","0.1064","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin2",
+"2010","0.151","Percent","Streptococcus pneumoniae","Antibiotic resistance","Tetracycline3",
+"2010","0.224","Percent","Streptococcus pneumoniae","Antibiotic resistance","TMPsulfa",
+"2010","0","Percent","Streptococcus pneumoniae","Antibiotic resistance","Vancomycin",
+"2010","34.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","<1 year old"
+"2010","26.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","1 year old"
+"2010","3.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","18-34 years old"
+"2010","13.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","2-4 years old"
+"2010","10.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","35-49 years old"
+"2010","18.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","50-64 years old"
+"2010","2.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","5-17 years old"
+"2010","36.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","≥65 years old"
+"2010","12.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","Overall"
+"2010","12.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Overall",
+"2010","17.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Black"
+"2010","9.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Other races"
+"2010","12.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Overall"
+"2010","12.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","White"
+"2010","0.24","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","<1 year old"
+"2010","0.24","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","1 year old"
+"2010","0.26","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","18-34 years old"
+"2010","0.08","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","2-4 years old"
+"2010","0.68","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","35-49 years old"
+"2010","1.84","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","50-64 years old"
+"2010","0.02","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","5-17 years old"
+"2010","5.63","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","≥65 years old"
+"2010","1.2","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","Overall"
+"2010","1.2","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Overall",
+"2010","4,000","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of deaths"
+"2010","35,750","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of survivals"
+"2010","39,750","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Total cases"
+"2005","15.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV20 Serotypes"
+"2005","29","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV20 Serotypes"
+"2005","6.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV21 Serotypes"
+"2005","15.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV21 Serotypes"
+"2005","29.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV21 Serotypes"
+"2005","7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PPSV23 Serotypes"
+"2005","15.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PPSV23 Serotypes"
+"2005","28.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PPSV23 Serotypes"
+"2006","21.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","All Serotypes"
+"2006","8.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","All Serotypes"
+"2006","20.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","All Serotypes"
+"2006","40.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","All Serotypes"
+"2006","13.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV13 Serotypes"
+"2006","4.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV13 Serotypes"
+"2010","0.703","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia with pneumonia",
+"2010","0.168","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia without focus",
+"2010","0.06","Percent","Streptococcus pneumoniae","Syndromes","Meningitis",
+"2011","0.08","Percent","Streptococcus pneumoniae","Antibiotic resistance","Cefotaxime4",
+"2011","0.265","Percent","Streptococcus pneumoniae","Antibiotic resistance","Erythromycin",
+"2011","0.003","Percent","Streptococcus pneumoniae","Antibiotic resistance","Levofloxacin",
+"2011","3,199","Counts","Streptococcus pneumoniae","Antibiotic resistance","Number of isolates",
+"2011","0.232","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin1",
+"2011","0.092","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin2",
+"2011","0.134","Percent","Streptococcus pneumoniae","Antibiotic resistance","Tetracycline3",
+"2011","0.219","Percent","Streptococcus pneumoniae","Antibiotic resistance","TMPsulfa",
+"2011","0","Percent","Streptococcus pneumoniae","Antibiotic resistance","Vancomycin",
+"2011","22","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","<1 year old"
+"2011","17.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","1 year old"
+"2011","3.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","18-34 years old"
+"2011","8.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","2-4 years old"
+"2011","8.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","35-49 years old"
+"2011","18.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","50-64 years old"
+"2011","2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","5-17 years old"
+"2011","34.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","≥65 years old"
+"2011","11.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","Overall"
+"2011","11.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Overall",
+"2011","16.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Black"
+"2011","9.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Other races"
+"2011","11.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Overall"
+"2011","10.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","White"
+"2011","1.06","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","<1 year old"
+"2011","0.53","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","1 year old"
+"2011","0.16","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","18-34 years old"
+"2011","0.26","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","2-4 years old"
+"2011","0.8","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","35-49 years old"
+"2011","1.74","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","50-64 years old"
+"2011","0.02","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","5-17 years old"
+"2011","6","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","≥65 years old"
+"2011","1.3","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","Overall"
+"2011","1.3","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Overall",
+"2011","4,225","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of deaths"
+"2011","32,365","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of survivals"
+"2011","36,590","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Total cases"
+"2006","9.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV13 Serotypes"
+"2006","17.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV13 Serotypes"
+"2006","15.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV15 Serotypes"
+"2006","5.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV15 Serotypes"
+"2006","11.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV15 Serotypes"
+"2006","21.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV15 Serotypes"
+"2006","17.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV20 Serotypes"
+"2006","6.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV20 Serotypes"
+"2006","14.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV20 Serotypes"
+"2006","26.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV20 Serotypes"
+"2006","6.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV21 Serotypes"
+"2006","15.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV21 Serotypes"
+"2006","31.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV21 Serotypes"
+"2006","6.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PPSV23 Serotypes"
+"2011","0.729","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia with pneumonia",
+"2011","0.146","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia without focus",
+"2011","0.066","Percent","Streptococcus pneumoniae","Syndromes","Meningitis",
+"2012","0.044","Percent","Streptococcus pneumoniae","Antibiotic resistance","Cefotaxime4",
+"2012","0.292","Percent","Streptococcus pneumoniae","Antibiotic resistance","Erythromycin",
+"2012","0.004","Percent","Streptococcus pneumoniae","Antibiotic resistance","Levofloxacin",
+"2012","2,742","Counts","Streptococcus pneumoniae","Antibiotic resistance","Number of isolates",
+"2012","0.223","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin1",
+"2012","0.065","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin2",
+"2012","0.112","Percent","Streptococcus pneumoniae","Antibiotic resistance","Tetracycline3",
+"2012","0.196","Percent","Streptococcus pneumoniae","Antibiotic resistance","TMPsulfa",
+"2012","0","Percent","Streptococcus pneumoniae","Antibiotic resistance","Vancomycin",
+"2012","15.7","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","<1 year old"
+"2012","13.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","1 year old"
+"2012","2.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","18-34 years old"
+"2012","5.7","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","2-4 years old"
+"2012","7.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","35-49 years old"
+"2012","15.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","50-64 years old"
+"2012","1.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","5-17 years old"
+"2012","29.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","≥65 years old"
+"2012","9.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","Overall"
+"2012","9.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Overall",
+"2012","13","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Black"
+"2012","6.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Other races"
+"2012","9.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Overall"
+"2012","9.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","White"
+"2012","0.24","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","<1 year old"
+"2012","0.24","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","1 year old"
+"2012","0.1","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","18-34 years old"
+"2012","0","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","2-4 years old"
+"2012","0.58","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","35-49 years old"
+"2012","1.55","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","50-64 years old"
+"2012","0.14","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","5-17 years old"
+"2012","4.11","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","≥65 years old"
+"2012","1","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","Overall"
+"2012","1","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Overall",
+"2012","3,260","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of deaths"
+"2012","27,965","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of survivals"
+"2012","31,225","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Total cases"
+"2006","14.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PPSV23 Serotypes"
+"2006","26.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PPSV23 Serotypes"
+"2007","22.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","All Serotypes"
+"2007","8.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","All Serotypes"
+"2007","20.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","All Serotypes"
+"2007","39.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","All Serotypes"
+"2007","14.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV13 Serotypes"
+"2007","4.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV13 Serotypes"
+"2007","9.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV13 Serotypes"
+"2007","17.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV13 Serotypes"
+"2007","17","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV15 Serotypes"
+"2007","4.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV15 Serotypes"
+"2007","11.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV15 Serotypes"
+"2007","21.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV15 Serotypes"
+"2012","0.691","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia with pneumonia",
+"2012","0.168","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia without focus",
+"2012","0.071","Percent","Streptococcus pneumoniae","Syndromes","Meningitis",
+"2013","0.027","Percent","Streptococcus pneumoniae","Antibiotic resistance","Cefotaxime4",
+"2013","0.285","Percent","Streptococcus pneumoniae","Antibiotic resistance","Erythromycin",
+"2013","0.002","Percent","Streptococcus pneumoniae","Antibiotic resistance","Levofloxacin",
+"2013","2,947","Counts","Streptococcus pneumoniae","Antibiotic resistance","Number of isolates",
+"2013","0.209","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin1",
+"2013","0.053","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin2",
+"2013","0.103","Percent","Streptococcus pneumoniae","Antibiotic resistance","Tetracycline3",
+"2013","0.183","Percent","Streptococcus pneumoniae","Antibiotic resistance","TMPsulfa",
+"2013","0","Percent","Streptococcus pneumoniae","Antibiotic resistance","Vancomycin",
+"2013","12.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","<1 year old"
+"2013","15.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","1 year old"
+"2013","2.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","18-34 years old"
+"2013","6.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","2-4 years old"
+"2013","7.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","35-49 years old"
+"2013","16.7","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","50-64 years old"
+"2013","1.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","5-17 years old"
+"2013","30.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","≥65 years old"
+"2013","9.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","Overall"
+"2013","9.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Overall",
+"2013","14.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Black"
+"2013","6.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Other races"
+"2013","9.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Overall"
+"2013","9.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","White"
+"2013","0.24","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","<1 year old"
+"2013","0.24","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","1 year old"
+"2013","0.07","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","18-34 years old"
+"2013","0.32","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","2-4 years old"
+"2013","0.54","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","35-49 years old"
+"2013","1.83","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","50-64 years old"
+"2013","0.04","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","5-17 years old"
+"2013","4.58","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","≥65 years old"
+"2013","1.07","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","Overall"
+"2013","1.07","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Overall",
+"2013","3,430","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of deaths"
+"2013","27,820","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of survivals"
+"2013","31,250","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Total cases"
+"2007","18.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV20 Serotypes"
+"2007","6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV20 Serotypes"
+"2007","14.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV20 Serotypes"
+"2007","25.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV20 Serotypes"
+"2007","6.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV21 Serotypes"
+"2007","17.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV21 Serotypes"
+"2007","31.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV21 Serotypes"
+"2007","6.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PPSV23 Serotypes"
+"2007","15","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PPSV23 Serotypes"
+"2007","26","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PPSV23 Serotypes"
+"2008","20.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","All Serotypes"
+"2008","8.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","All Serotypes"
+"2008","21.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","All Serotypes"
+"2008","40.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","All Serotypes"
+"2013","0.691","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia with pneumonia",
+"2013","0.17","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia without focus",
+"2013","0.063","Percent","Streptococcus pneumoniae","Syndromes","Meningitis",
+"2014","0.035","Percent","Streptococcus pneumoniae","Antibiotic resistance","Cefotaxime4",
+"2014","0.306","Percent","Streptococcus pneumoniae","Antibiotic resistance","Erythromycin",
+"2014","0.003","Percent","Streptococcus pneumoniae","Antibiotic resistance","Levofloxacin",
+"2014","2,495","Counts","Streptococcus pneumoniae","Antibiotic resistance","Number of isolates",
+"2014","0.233","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin1",
+"2014","0.058","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin2",
+"2014","0.118","Percent","Streptococcus pneumoniae","Antibiotic resistance","Tetracycline3",
+"2014","0.194","Percent","Streptococcus pneumoniae","Antibiotic resistance","TMPsulfa",
+"2014","0","Percent","Streptococcus pneumoniae","Antibiotic resistance","Vancomycin",
+"2014","15.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","<1 year old"
+"2014","10.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","1 year old"
+"2014","2.7","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","18-34 years old"
+"2014","6.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","2-4 years old"
+"2014","6.7","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","35-49 years old"
+"2014","15.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","50-64 years old"
+"2014","1.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","5-17 years old"
+"2014","24.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","≥65 years old"
+"2014","9.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","Overall"
+"2014","9.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Overall",
+"2014","12.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Black"
+"2014","8.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Other races"
+"2014","9.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Overall"
+"2014","8.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","White"
+"2014","0.48","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","<1 year old"
+"2014","0","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","1 year old"
+"2014","0.18","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","18-34 years old"
+"2014","0.08","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","2-4 years old"
+"2014","0.7","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","35-49 years old"
+"2014","1.64","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","50-64 years old"
+"2014","0.06","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","5-17 years old"
+"2014","3.47","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","≥65 years old"
+"2014","0.99","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","Overall"
+"2014","0.99","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Overall",
+"2014","3,240","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of deaths"
+"2014","25,925","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of survivals"
+"2014","29,165","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Total cases"
+"2008","12.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV13 Serotypes"
+"2008","4.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV13 Serotypes"
+"2008","10.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV13 Serotypes"
+"2008","18","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV13 Serotypes"
+"2008","15.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV15 Serotypes"
+"2008","5.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV15 Serotypes"
+"2008","12.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV15 Serotypes"
+"2008","23.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV15 Serotypes"
+"2008","16.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV20 Serotypes"
+"2008","6.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV20 Serotypes"
+"2008","15.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV20 Serotypes"
+"2008","26.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV20 Serotypes"
+"2008","7.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV21 Serotypes"
+"2008","17.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV21 Serotypes"
+"2014","0.704","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia with pneumonia",
+"2014","0.159","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia without focus",
+"2014","0.065","Percent","Streptococcus pneumoniae","Syndromes","Meningitis",
+"2015","0.025","Percent","Streptococcus pneumoniae","Antibiotic resistance","Cefotaxime4",
+"2015","0.304","Percent","Streptococcus pneumoniae","Antibiotic resistance","Erythromycin",
+"2015","0.001","Percent","Streptococcus pneumoniae","Antibiotic resistance","Levofloxacin",
+"2015","2,600","Counts","Streptococcus pneumoniae","Antibiotic resistance","Number of isolates",
+"2015","0.224","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin1",
+"2015","0.042","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin2",
+"2015","0.113","Percent","Streptococcus pneumoniae","Antibiotic resistance","Tetracycline3",
+"2015","0.195","Percent","Streptococcus pneumoniae","Antibiotic resistance","TMPsulfa",
+"2015","0","Percent","Streptococcus pneumoniae","Antibiotic resistance","Vancomycin",
+"2015","18.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","<1 year old"
+"2015","13.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","1 year old"
+"2015","2.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","18-34 years old"
+"2015","5.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","2-4 years old"
+"2015","6.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","35-49 years old"
+"2015","15","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","50-64 years old"
+"2015","1.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","5-17 years old"
+"2015","24.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","≥65 years old"
+"2015","9.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","Overall"
+"2015","9.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Overall",
+"2015","12.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Black"
+"2015","6.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Other races"
+"2015","9.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Overall"
+"2015","8.7","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","White"
+"2015","0.24","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","<1 year old"
+"2015","0.24","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","1 year old"
+"2015","0.08","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","18-34 years old"
+"2015","0.16","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","2-4 years old"
+"2015","0.52","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","35-49 years old"
+"2015","1.53","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","50-64 years old"
+"2015","0","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","5-17 years old"
+"2015","4.14","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","≥65 years old"
+"2015","1.03","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","Overall"
+"2015","1.03","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Overall",
+"2015","3,340","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of deaths"
+"2015","26,160","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of survivals"
+"2015","29,500","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Total cases"
+"2008","33","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV21 Serotypes"
+"2008","7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PPSV23 Serotypes"
+"2008","16.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PPSV23 Serotypes"
+"2008","26.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PPSV23 Serotypes"
+"2009","22.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","All Serotypes"
+"2009","8.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","All Serotypes"
+"2009","21.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","All Serotypes"
+"2009","38.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","All Serotypes"
+"2009","14.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV13 Serotypes"
+"2009","4.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV13 Serotypes"
+"2009","10.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV13 Serotypes"
+"2009","17.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV13 Serotypes"
+"2009","17.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV15 Serotypes"
+"2009","5.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV15 Serotypes"
+"2015","0.68","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia with pneumonia",
+"2015","0.17","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia without focus",
+"2015","0.07","Percent","Streptococcus pneumoniae","Syndromes","Meningitis",
+"2016","0.024","Percent","Streptococcus pneumoniae","Antibiotic resistance","Cefotaxime4",
+"2016","0.303","Percent","Streptococcus pneumoniae","Antibiotic resistance","Erythromycin",
+"2016","0.002","Percent","Streptococcus pneumoniae","Antibiotic resistance","Levofloxacin",
+"2016","2,727","Counts","Streptococcus pneumoniae","Antibiotic resistance","Number of isolates",
+"2016","0.22","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin1",
+"2016","0.04","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin2",
+"2016","0.122","Percent","Streptococcus pneumoniae","Antibiotic resistance","Tetracycline3",
+"2016","0.186","Percent","Streptococcus pneumoniae","Antibiotic resistance","TMPsulfa",
+"2016","0","Percent","Streptococcus pneumoniae","Antibiotic resistance","Vancomycin",
+"2016","13.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","<1 year old"
+"2016","13.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","1 year old"
+"2016","2.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","18-34 years old"
+"2016","5.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","2-4 years old"
+"2016","7","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","35-49 years old"
+"2016","16.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","50-64 years old"
+"2016","1.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","5-17 years old"
+"2016","24.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","≥65 years old"
+"2016","9.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","Overall"
+"2016","9.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Overall",
+"2016","13.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Black"
+"2016","7.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Other races"
+"2016","9.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Overall"
+"2016","8.7","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","White"
+"2016","0.48","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","<1 year old"
+"2016","0.24","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","1 year old"
+"2016","0.19","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","18-34 years old"
+"2016","0.4","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","2-4 years old"
+"2016","0.65","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","35-49 years old"
+"2016","2.12","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","50-64 years old"
+"2016","0.04","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","5-17 years old"
+"2016","3.6","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","≥65 years old"
+"2016","1.14","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","Overall"
+"2016","1.14","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Overall",
+"2016","3,690","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of deaths"
+"2016","26,710","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of survivals"
+"2016","30,400","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Total cases"
+"2009","13.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV15 Serotypes"
+"2009","21.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV15 Serotypes"
+"2009","18.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV20 Serotypes"
+"2009","5.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV20 Serotypes"
+"2009","14.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV20 Serotypes"
+"2009","25.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV20 Serotypes"
+"2009","7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV21 Serotypes"
+"2009","18.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV21 Serotypes"
+"2009","32.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV21 Serotypes"
+"2009","6.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PPSV23 Serotypes"
+"2009","15.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PPSV23 Serotypes"
+"2009","25.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PPSV23 Serotypes"
+"2010","19.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","All Serotypes"
+"2010","7.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","All Serotypes"
+"2016","0.653","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia with pneumonia",
+"2016","0.189","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia without focus",
+"2016","0.063","Percent","Streptococcus pneumoniae","Syndromes","Meningitis",
+"2017","0.021","Percent","Streptococcus pneumoniae","Antibiotic resistance","Cefotaxime4",
+"2017","0.293","Percent","Streptococcus pneumoniae","Antibiotic resistance","Erythromycin",
+"2017","0.001","Percent","Streptococcus pneumoniae","Antibiotic resistance","Levofloxacin",
+"2017","2,885","Counts","Streptococcus pneumoniae","Antibiotic resistance","Number of isolates",
+"2017","0.212","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin1",
+"2017","0.04","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin2",
+"2017","0.113","Percent","Streptococcus pneumoniae","Antibiotic resistance","Tetracycline3",
+"2017","0.18","Percent","Streptococcus pneumoniae","Antibiotic resistance","TMPsulfa",
+"2017","0","Percent","Streptococcus pneumoniae","Antibiotic resistance","Vancomycin",
+"2017","11.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","<1 year old"
+"2017","7.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","1 year old"
+"2017","2.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","18-34 years old"
+"2017","5.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","2-4 years old"
+"2017","6.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","35-49 years old"
+"2017","16.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","50-64 years old"
+"2017","1.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","5-17 years old"
+"2017","25.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","≥65 years old"
+"2017","9.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","Overall"
+"2017","9.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Overall",
+"2017","13.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Black"
+"2017","6.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Other races"
+"2017","9.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Overall"
+"2017","8.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","White"
+"2017","0.72","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","<1 year old"
+"2017","0.48","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","1 year old"
+"2017","0.17","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","18-34 years old"
+"2017","0.32","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","2-4 years old"
+"2017","0.44","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","35-49 years old"
+"2017","1.86","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","50-64 years old"
+"2017","0.11","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","5-17 years old"
+"2017","3.74","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","≥65 years old"
+"2017","1.1","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","Overall"
+"2017","1.1","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Overall",
+"2017","3,590","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of deaths"
+"2017","27,410","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of survivals"
+"2017","31,000","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Total cases"
+"2010","18.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","All Serotypes"
+"2010","36.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","All Serotypes"
+"2010","12.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV13 Serotypes"
+"2010","3.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV13 Serotypes"
+"2017","0.693","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia with pneumonia",
+"2017","0.164","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia without focus",
+"2017","0.069","Percent","Streptococcus pneumoniae","Syndromes","Meningitis",
+"2018","0.016","Percent","Streptococcus pneumoniae","Antibiotic resistance","Cefotaxime4",
+"2018","0.288","Percent","Streptococcus pneumoniae","Antibiotic resistance","Erythromycin",
+"2018","0.001","Percent","Streptococcus pneumoniae","Antibiotic resistance","Levofloxacin",
+"2018","2,883","Counts","Streptococcus pneumoniae","Antibiotic resistance","Number of isolates",
+"2018","0.186","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin1",
+"2018","0.034","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin2",
+"2018","0.12","Percent","Streptococcus pneumoniae","Antibiotic resistance","Tetracycline3",
+"2018","0.191","Percent","Streptococcus pneumoniae","Antibiotic resistance","TMPsulfa",
+"2018","0","Percent","Streptococcus pneumoniae","Antibiotic resistance","Vancomycin",
+"2018","13.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","<1 year old"
+"2018","9.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","1 year old"
+"2018","2.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","18-34 years old"
+"2018","4.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","2-4 years old"
+"2018","7.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","35-49 years old"
+"2018","16.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","50-64 years old"
+"2018","1.7","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","5-17 years old"
+"2018","23.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","≥65 years old"
+"2018","9.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","Overall"
+"2018","9.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Overall",
+"2018","13.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Black"
+"2018","6.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Other races"
+"2018","9.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Overall"
+"2018","9.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","White"
+"2018","1","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","<1 year old"
+"2018","0.5","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","1 year old"
+"2018","0.1","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","18-34 years old"
+"2018","0.1","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","2-4 years old"
+"2018","0.6","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","35-49 years old"
+"2018","1.9","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","50-64 years old"
+"2018","0.02","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","5-17 years old"
+"2018","3.27","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","≥65 years old"
+"2018","1.1","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","Overall"
+"2018","1.1","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Overall",
+"2018","3,480","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of deaths"
+"2018","27,920","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of survivals"
+"2018","31,400","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Total cases"
+"2018","0.714","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia with pneumonia",
+"2018","0.141","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia without focus",
+"2018","0.072","Percent","Streptococcus pneumoniae","Syndromes","Meningitis",
+"2019","0.022","Percent","Streptococcus pneumoniae","Antibiotic resistance","Cefotaxime4",
+"2019","0.293","Percent","Streptococcus pneumoniae","Antibiotic resistance","Erythromycin",
+"2019","0","Percent","Streptococcus pneumoniae","Antibiotic resistance","Levofloxacin",
+"2019","2,802","Counts","Streptococcus pneumoniae","Antibiotic resistance","Number of isolates",
+"2019","0.197","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin1",
+"2019","0.036","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin2",
+"2019","0.125","Percent","Streptococcus pneumoniae","Antibiotic resistance","Tetracycline3",
+"2019","0.182","Percent","Streptococcus pneumoniae","Antibiotic resistance","TMPsulfa",
+"2019","0","Percent","Streptococcus pneumoniae","Antibiotic resistance","Vancomycin",
+"2019","13.7","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","<1 year old"
+"2019","10.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","1 year old"
+"2019","2.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","18-34 years old"
+"2019","4.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","2-4 years old"
+"2019","6.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","35-49 years old"
+"2019","15.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","50-64 years old"
+"2019","1.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","5-17 years old"
+"2019","23.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","≥65 years old"
+"2019","9.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","Overall"
+"2019","9.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Overall",
+"2019","13.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Black"
+"2019","6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Other races"
+"2019","9.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Overall"
+"2019","8.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","White"
+"2019","1","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","<1 year old"
+"2019","0.49","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","1 year old"
+"2019","0.06","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","18-34 years old"
+"2019","0.08","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","2-4 years old"
+"2019","0.54","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","35-49 years old"
+"2019","1.54","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","50-64 years old"
+"2019","0.09","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","5-17 years old"
+"2019","3.27","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","≥65 years old"
+"2019","0.98","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","Overall"
+"2019","0.98","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Overall",
+"2019","3,250","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of deaths"
+"2019","27,050","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of survivals"
+"2019","30,300","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Total cases"
+"2019","0.721","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia with pneumonia",
+"2019","0.13","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia without focus",
+"2019","0.07","Percent","Streptococcus pneumoniae","Syndromes","Meningitis",
+"2020","0.021","Percent","Streptococcus pneumoniae","Antibiotic resistance","Cefotaxime4",
+"2020","0.293","Percent","Streptococcus pneumoniae","Antibiotic resistance","Erythromycin",
+"2020","0","Percent","Streptococcus pneumoniae","Antibiotic resistance","Levofloxacin",
+"2020","1,545","Counts","Streptococcus pneumoniae","Antibiotic resistance","Number of isolates",
+"2020","0.193","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin1",
+"2020","0.033","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin2",
+"2020","0.12","Percent","Streptococcus pneumoniae","Antibiotic resistance","Tetracycline3",
+"2020","0.203","Percent","Streptococcus pneumoniae","Antibiotic resistance","TMPsulfa",
+"2020","0","Percent","Streptococcus pneumoniae","Antibiotic resistance","Vancomycin",
+"2020","6.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","<1 year old"
+"2020","4.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","1 year old"
+"2020","1.7","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","18-34 years old"
+"2020","1.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","2-4 years old"
+"2020","4.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","35-49 years old"
+"2020","9.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","50-64 years old"
+"2020","0.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","5-17 years old"
+"2020","12.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","≥65 years old"
+"2020","5.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","Overall"
+"2020","5.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Overall",
+"2020","7.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Black"
+"2020","4.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Other races"
+"2020","5.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Overall"
+"2020","5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","White"
+"2020","0.25","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","<1 year old"
+"2020","0","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","1 year old"
+"2020","0.07","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","18-34 years old"
+"2020","0.24","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","2-4 years old"
+"2020","0.69","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","35-49 years old"
+"2020","1.33","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","50-64 years old"
+"2020","0.02","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","5-17 years old"
+"2020","2.25","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","≥65 years old"
+"2020","0.78","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","Overall"
+"2020","0.78","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Overall",
+"2020","2,580","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of deaths"
+"2020","15,100","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of survivals"
+"2020","17,680","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Total cases"
+"2020","0.694","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia with pneumonia",
+"2020","0.145","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia without focus",
+"2020","0.074","Percent","Streptococcus pneumoniae","Syndromes","Meningitis",
+"2021","0.017","Percent","Streptococcus pneumoniae","Antibiotic resistance","Cefotaxime4",
+"2021","0.297","Percent","Streptococcus pneumoniae","Antibiotic resistance","Erythromycin",
+"2021","0","Percent","Streptococcus pneumoniae","Antibiotic resistance","Levofloxacin",
+"2021","1,404","Counts","Streptococcus pneumoniae","Antibiotic resistance","Number of isolates",
+"2021","0.226","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin1",
+"2021","0.033","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin2",
+"2021","0.136","Percent","Streptococcus pneumoniae","Antibiotic resistance","Tetracycline3",
+"2021","0.241","Percent","Streptococcus pneumoniae","Antibiotic resistance","TMPsulfa",
+"2021","0","Percent","Streptococcus pneumoniae","Antibiotic resistance","Vancomycin",
+"2021","7.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","<1 year old"
+"2021","9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","1 year old"
+"2021","2.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","18-34 years old"
+"2021","2.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","2-4 years old"
+"2021","4.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","35-49 years old"
+"2021","9.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","50-64 years old"
+"2021","0.5","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","5-17 years old"
+"2021","10.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","≥65 years old"
+"2021","5.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","Overall"
+"2021","5.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Overall",
+"2021","8.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Black"
+"2021","3.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Other races"
+"2021","5.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Overall"
+"2021","4.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","White"
+"2021","0.53","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","<1 year old"
+"2021","0","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","1 year old"
+"2021","0.22","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","18-34 years old"
+"2021","0.25","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","2-4 years old"
+"2021","0.49","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","35-49 years old"
+"2021","1.94","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","50-64 years old"
+"2021","0.02","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","5-17 years old"
+"2021","2.11","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","≥65 years old"
+"2021","0.88","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","Overall"
+"2021","0.88","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Overall",
+"2021","2,900","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of deaths"
+"2021","14,490","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of survivals"
+"2021","17,390","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Total cases"
+"2021","0.678","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia with pneumonia",
+"2021","0.156","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia without focus",
+"2021","0.059","Percent","Streptococcus pneumoniae","Syndromes","Meningitis",
+"2022","0.017","Percent","Streptococcus pneumoniae","Antibiotic resistance","Cefotaxime4",
+"2022","0.261","Percent","Streptococcus pneumoniae","Antibiotic resistance","Erythromycin",
+"2022","0","Percent","Streptococcus pneumoniae","Antibiotic resistance","Levofloxacin",
+"2022","2,429","Counts","Streptococcus pneumoniae","Antibiotic resistance","Number of isolates",
+"2022","0.175","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin1",
+"2022","0.035","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin2",
+"2022","0.104","Percent","Streptococcus pneumoniae","Antibiotic resistance","Tetracycline3",
+"2022","0.216","Percent","Streptococcus pneumoniae","Antibiotic resistance","TMPsulfa",
+"2022","0","Percent","Streptococcus pneumoniae","Antibiotic resistance","Vancomycin",
+"2022","10.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","<1 year old"
+"2022","7.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","1 year old"
+"2022","6.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","2-4 years old"
+"2022","2.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","5-17 years old"
+"2022","3.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","18-34 years old"
+"2022","7.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","35-49 years old"
+"2022","13.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","50-64 years old"
+"2022","17.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","≥65 years old"
+"2022","8.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","Overall"
+"2022","8.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Overall",
+"2022","7.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","White"
+"2022","12.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Black"
+"2022","5.7","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Other races"
+"2022","8.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Overall"
+"2022","0.52","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","<1 year old"
+"2022","0","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","1 year old"
+"2022","0.34","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","2-4 years old"
+"2022","0.11","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","5-17 years old"
+"2022","0.21","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","18-34 years old"
+"2022","0.56","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","35-49 years old"
+"2022","1.78","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","50-64 years old"
+"2022","2.66","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","≥65 years old"
+"2022","0.97","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","Overall"
+"2022","0.97","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Overall",
+"2022","3,230","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of deaths"
+"2022","24,540","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of survivals"
+"2022","27,770","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Total cases"
+"2022","0.707","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia with pneumonia",
+"2022","0.131","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia without focus",
+"2022","0.079","Percent","Streptococcus pneumoniae","Syndromes","Meningitis",
+"2023","0.015","Percent","Streptococcus pneumoniae","Antibiotic resistance","Cefotaxime4",
+"2023","0.249","Percent","Streptococcus pneumoniae","Antibiotic resistance","Erythromycin",
+"2023","0","Percent","Streptococcus pneumoniae","Antibiotic resistance","Levofloxacin",
+"2023","2,972","Counts","Streptococcus pneumoniae","Antibiotic resistance","Number of isolates",
+"2023","0.155","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin1",
+"2023","0.027","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin2",
+"2023","0.102","Percent","Streptococcus pneumoniae","Antibiotic resistance","Tetracycline3",
+"2023","0.199","Percent","Streptococcus pneumoniae","Antibiotic resistance","TMPsulfa",
+"2023","0","Percent","Streptococcus pneumoniae","Antibiotic resistance","Vancomycin",
+"2023","13.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","<1 year old"
+"2023","8.7","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","1 year old"
+"2023","7.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","2-4 years old"
+"2023","2.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","5-17 years old"
+"2023","3.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","18-34 years old"
+"2023","8.3","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","35-49 years old"
+"2023","15","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","50-64 years old"
+"2023","22.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","≥65 years old"
+"2023","9.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","Overall"
+"2023","9.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Overall",
+"2023","9.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","White"
+"2023","15.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Black"
+"2023","6.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Other races"
+"2023","9.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Overall"
+"2023","0.78","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","<1 year old"
+"2023","0.26","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","1 year old"
+"2023","0.51","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","2-4 years old"
+"2023","0.09","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","5-17 years old"
+"2023","0.19","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","18-34 years old"
+"2023","0.75","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","35-49 years old"
+"2023","1.63","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","50-64 years old"
+"2023","3.3","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","≥65 years old"
+"2023","1.1","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","Overall"
+"2023","1.1","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Overall",
+"2023","3,680","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of deaths"
+"2023","29,540","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of survivals"
+"2023","33,220","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Total cases"
+"2023","0.707","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia with pneumonia",
+"2023","0.121","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia without focus",
+"2023","0.08","Percent","Streptococcus pneumoniae","Syndromes","Meningitis",
+"2024","0.018","Percent","Streptococcus pneumoniae","Antibiotic resistance","Cefotaxime4",
+"2024","0.239","Percent","Streptococcus pneumoniae","Antibiotic resistance","Erythromycin",
+"2024","0","Percent","Streptococcus pneumoniae","Antibiotic resistance","Levofloxacin",
+"2024","3,013","Counts","Streptococcus pneumoniae","Antibiotic resistance","Number of isolates",
+"2024","0.16","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin1",
+"2024","0.026","Percent","Streptococcus pneumoniae","Antibiotic resistance","Penicillin2",
+"2024","0.112","Percent","Streptococcus pneumoniae","Antibiotic resistance","Tetracycline3",
+"2024","0.196","Percent","Streptococcus pneumoniae","Antibiotic resistance","TMPsulfa",
+"2024","0","Percent","Streptococcus pneumoniae","Antibiotic resistance","Vancomycin",
+"2024","8.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","<1 year old"
+"2024","6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","1 year old"
+"2024","6.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","2-4 years old"
+"2024","2.2","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","5-17 years old"
+"2024","3.4","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","18-34 years old"
+"2024","8.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","35-49 years old"
+"2024","15.8","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","50-64 years old"
+"2024","22.9","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","≥65 years old"
+"2024","10.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Age","Overall"
+"2024","10.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Overall",
+"2024","9.36","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","White"
+"2024","15.96","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Black"
+"2024","6.6","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Other races"
+"2024","10.1","Per 100,000 population","Streptococcus pneumoniae","Case Rates","Race","Overall"
+"2024","0.24","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","<1 year old"
+"2024","0","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","1 year old"
+"2024","0.24","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","2-4 years old"
+"2024","0.09","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","5-17 years old"
+"2024","0.16","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","18-34 years old"
+"2024","0.68","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","35-49 years old"
+"2024","1.53","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","50-64 years old"
+"2024","3.1","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","≥65 years old"
+"2024","1.01","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Age","Overall"
+"2024","1.01","Per 100,000 population","Streptococcus pneumoniae","Death Rates","Overall",
+"2024","3,430","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of deaths"
+"2024","30,920","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Number of survivals"
+"2024","34,350","Counts","Streptococcus pneumoniae","Number of Cases and Deaths","ALL","Total cases"
+"2024","0.735","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia with pneumonia",
+"2024","0.111","Percent","Streptococcus pneumoniae","Syndromes","Bacteremia without focus",
+"2024","0.066","Percent","Streptococcus pneumoniae","Syndromes","Meningitis",
+"2010","9.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV13 Serotypes"
+"2010","14.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV13 Serotypes"
+"2010","14.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV15 Serotypes"
+"2010","4.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV15 Serotypes"
+"2010","10.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV15 Serotypes"
+"2010","18.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV15 Serotypes"
+"2010","16","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV20 Serotypes"
+"2010","5.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV20 Serotypes"
+"2010","13.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV20 Serotypes"
+"2010","21.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV20 Serotypes"
+"2010","6.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV21 Serotypes"
+"2010","16.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV21 Serotypes"
+"2010","29.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV21 Serotypes"
+"2010","5.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PPSV23 Serotypes"
+"2010","14.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PPSV23 Serotypes"
+"2010","23.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PPSV23 Serotypes"
+"2011","12.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","All Serotypes"
+"2011","6.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","All Serotypes"
+"2011","18.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","All Serotypes"
+"2011","34.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","All Serotypes"
+"2011","4.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV13 Serotypes"
+"2011","2.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV13 Serotypes"
+"2011","7.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV13 Serotypes"
+"2011","10.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV13 Serotypes"
+"2011","6.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV15 Serotypes"
+"2011","3.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV15 Serotypes"
+"2011","9.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV15 Serotypes"
+"2011","16.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV15 Serotypes"
+"2011","8.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV20 Serotypes"
+"2011","4.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV20 Serotypes"
+"2011","12.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV20 Serotypes"
+"2011","20.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV20 Serotypes"
+"2011","5.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV21 Serotypes"
+"2011","16.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV21 Serotypes"
+"2011","28.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV21 Serotypes"
+"2011","4.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PPSV23 Serotypes"
+"2011","13.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PPSV23 Serotypes"
+"2011","22","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PPSV23 Serotypes"
+"2012","9.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","All Serotypes"
+"2012","5.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","All Serotypes"
+"2012","15.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","All Serotypes"
+"2012","29.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","All Serotypes"
+"2012","1.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV13 Serotypes"
+"2012","1.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV13 Serotypes"
+"2012","4.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV13 Serotypes"
+"2012","8.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV13 Serotypes"
+"2012","3.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV15 Serotypes"
+"2012","2.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV15 Serotypes"
+"2012","7.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV15 Serotypes"
+"2012","12.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV15 Serotypes"
+"2012","5.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV20 Serotypes"
+"2012","3.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV20 Serotypes"
+"2012","9.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV20 Serotypes"
+"2012","16","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV20 Serotypes"
+"2012","4.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV21 Serotypes"
+"2012","13.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV21 Serotypes"
+"2012","23.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV21 Serotypes"
+"2012","3.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PPSV23 Serotypes"
+"2012","11.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PPSV23 Serotypes"
+"2012","17.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PPSV23 Serotypes"
+"2013","9.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","All Serotypes"
+"2013","5.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","All Serotypes"
+"2013","17.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","All Serotypes"
+"2013","30.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","All Serotypes"
+"2013","1.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV13 Serotypes"
+"2013","1.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV13 Serotypes"
+"2013","4.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV13 Serotypes"
+"2013","6.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV13 Serotypes"
+"2013","4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV15 Serotypes"
+"2013","2.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV15 Serotypes"
+"2013","6.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV15 Serotypes"
+"2013","11.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV15 Serotypes"
+"2013","5.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV20 Serotypes"
+"2013","3.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV20 Serotypes"
+"2013","10","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV20 Serotypes"
+"2013","16.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV20 Serotypes"
+"2013","4.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV21 Serotypes"
+"2013","15.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV21 Serotypes"
+"2013","25","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV21 Serotypes"
+"2013","4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PPSV23 Serotypes"
+"2013","11.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PPSV23 Serotypes"
+"2013","18.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PPSV23 Serotypes"
+"2014","9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","All Serotypes"
+"2014","4.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","All Serotypes"
+"2014","15.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","All Serotypes"
+"2014","24.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","All Serotypes"
+"2014","1.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV13 Serotypes"
+"2014","1.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV13 Serotypes"
+"2014","3.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV13 Serotypes"
+"2014","4.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV13 Serotypes"
+"2014","3.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV15 Serotypes"
+"2014","1.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV15 Serotypes"
+"2014","5.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV15 Serotypes"
+"2014","7.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV15 Serotypes"
+"2014","5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV20 Serotypes"
+"2014","2.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV20 Serotypes"
+"2014","8.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV20 Serotypes"
+"2014","11.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV20 Serotypes"
+"2014","4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV21 Serotypes"
+"2014","12.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV21 Serotypes"
+"2014","20.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV21 Serotypes"
+"2014","3.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PPSV23 Serotypes"
+"2014","10.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PPSV23 Serotypes"
+"2014","13.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PPSV23 Serotypes"
+"2015","9.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","All Serotypes"
+"2015","4.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","All Serotypes"
+"2015","15","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","All Serotypes"
+"2015","24.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","All Serotypes"
+"2015","1.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV13 Serotypes"
+"2015","1.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV13 Serotypes"
+"2015","3.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV13 Serotypes"
+"2015","5.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV13 Serotypes"
+"2015","3.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV15 Serotypes"
+"2015","1.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV15 Serotypes"
+"2015","6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV15 Serotypes"
+"2015","9.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV15 Serotypes"
+"2015","4.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV20 Serotypes"
+"2015","2.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV20 Serotypes"
+"2015","8.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV20 Serotypes"
+"2015","12.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV20 Serotypes"
+"2015","3.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV21 Serotypes"
+"2015","12.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV21 Serotypes"
+"2015","21","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV21 Serotypes"
+"2015","3.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PPSV23 Serotypes"
+"2015","10.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PPSV23 Serotypes"
+"2015","14.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PPSV23 Serotypes"
+"2016","8.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","All Serotypes"
+"2016","4.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","All Serotypes"
+"2016","16.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","All Serotypes"
+"2016","24.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","All Serotypes"
+"2016","1.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV13 Serotypes"
+"2016","1.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV13 Serotypes"
+"2016","4.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV13 Serotypes"
+"2016","5.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV13 Serotypes"
+"2016","3.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV15 Serotypes"
+"2016","1.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV15 Serotypes"
+"2016","6.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV15 Serotypes"
+"2016","9.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV15 Serotypes"
+"2016","4.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV20 Serotypes"
+"2016","2.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV20 Serotypes"
+"2016","8.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV20 Serotypes"
+"2016","12.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV20 Serotypes"
+"2016","4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV21 Serotypes"
+"2016","13.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV21 Serotypes"
+"2016","20.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV21 Serotypes"
+"2016","3.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PPSV23 Serotypes"
+"2016","11","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PPSV23 Serotypes"
+"2016","14.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PPSV23 Serotypes"
+"2017","7.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","All Serotypes"
+"2017","4.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","All Serotypes"
+"2017","16.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","All Serotypes"
+"2017","25.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","All Serotypes"
+"2017","1.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV13 Serotypes"
+"2017","1.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV13 Serotypes"
+"2017","4.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV13 Serotypes"
+"2017","6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV13 Serotypes"
+"2017","2.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV15 Serotypes"
+"2017","1.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV15 Serotypes"
+"2017","6.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV15 Serotypes"
+"2017","9.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV15 Serotypes"
+"2017","3.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV20 Serotypes"
+"2017","2.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV20 Serotypes"
+"2017","9.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV20 Serotypes"
+"2017","12.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV20 Serotypes"
+"2017","3.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV21 Serotypes"
+"2017","13.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV21 Serotypes"
+"2017","21.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV21 Serotypes"
+"2017","3.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PPSV23 Serotypes"
+"2017","11.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PPSV23 Serotypes"
+"2017","14.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PPSV23 Serotypes"
+"2018","7.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","All Serotypes"
+"2018","4.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","All Serotypes"
+"2018","16.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","All Serotypes"
+"2018","23.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","All Serotypes"
+"2018","1.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV13 Serotypes"
+"2018","1.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV13 Serotypes"
+"2018","4.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV13 Serotypes"
+"2018","5.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV13 Serotypes"
+"2018","2.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV15 Serotypes"
+"2018","2.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV15 Serotypes"
+"2018","6.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV15 Serotypes"
+"2018","9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV15 Serotypes"
+"2018","3.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV20 Serotypes"
+"2018","2.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV20 Serotypes"
+"2018","9.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV20 Serotypes"
+"2018","11.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV20 Serotypes"
+"2018","3.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV21 Serotypes"
+"2018","14.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV21 Serotypes"
+"2018","20","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV21 Serotypes"
+"2018","3.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PPSV23 Serotypes"
+"2018","11.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PPSV23 Serotypes"
+"2018","13.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PPSV23 Serotypes"
+"2019","7.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","All Serotypes"
+"2019","4.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","All Serotypes"
+"2019","15.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","All Serotypes"
+"2019","23.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","All Serotypes"
+"2019","1.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV13 Serotypes"
+"2019","1.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV13 Serotypes"
+"2019","4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV13 Serotypes"
+"2019","5.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV13 Serotypes"
+"2019","3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV15 Serotypes"
+"2019","1.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV15 Serotypes"
+"2019","6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV15 Serotypes"
+"2019","9.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV15 Serotypes"
+"2019","3.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV20 Serotypes"
+"2019","2.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV20 Serotypes"
+"2019","8.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV20 Serotypes"
+"2019","12.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV20 Serotypes"
+"2019","3.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV21 Serotypes"
+"2019","13.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV21 Serotypes"
+"2019","20.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV21 Serotypes"
+"2019","3.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PPSV23 Serotypes"
+"2019","10.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PPSV23 Serotypes"
+"2019","14.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PPSV23 Serotypes"
+"2020","3.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","All Serotypes"
+"2020","3.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","All Serotypes"
+"2020","9.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","All Serotypes"
+"2020","12.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","All Serotypes"
+"2020","0.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV13 Serotypes"
+"2020","0.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV13 Serotypes"
+"2020","2.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV13 Serotypes"
+"2020","3.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV13 Serotypes"
+"2020","1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV15 Serotypes"
+"2020","1.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV15 Serotypes"
+"2020","3.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV15 Serotypes"
+"2020","5.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV15 Serotypes"
+"2020","1.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV20 Serotypes"
+"2020","1.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV20 Serotypes"
+"2020","5.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV20 Serotypes"
+"2020","6.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV20 Serotypes"
+"2020","2.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV21 Serotypes"
+"2020","8.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV21 Serotypes"
+"2020","10.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV21 Serotypes"
+"2020","2.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PPSV23 Serotypes"
+"2020","6.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PPSV23 Serotypes"
+"2020","7.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PPSV23 Serotypes"
+"2021","4.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","All Serotypes"
+"2021","3.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","All Serotypes"
+"2021","9.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","All Serotypes"
+"2021","10.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","All Serotypes"
+"2021","1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV13 Serotypes"
+"2021","1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV13 Serotypes"
+"2021","2.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV13 Serotypes"
+"2021","2.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV13 Serotypes"
+"2021","1.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV15 Serotypes"
+"2021","1.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV15 Serotypes"
+"2021","3.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV15 Serotypes"
+"2021","3.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV15 Serotypes"
+"2021","2.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV20 Serotypes"
+"2021","1.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV20 Serotypes"
+"2021","4.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV20 Serotypes"
+"2021","4.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV20 Serotypes"
+"2021","2.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV21 Serotypes"
+"2021","7.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV21 Serotypes"
+"2021","9.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV21 Serotypes"
+"2021","2.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PPSV23 Serotypes"
+"2021","6.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PPSV23 Serotypes"
+"2021","5.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PPSV23 Serotypes"
+"2022","7.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","All Serotypes"
+"2022","5.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","All Serotypes"
+"2022","13.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","All Serotypes"
+"2022","17.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","All Serotypes"
+"2022","2.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV13 Serotypes"
+"2022","2.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV13 Serotypes"
+"2022","4.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV13 Serotypes"
+"2022","4.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV13 Serotypes"
+"2022","3.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV15 Serotypes"
+"2022","2.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV15 Serotypes"
+"2022","5.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV15 Serotypes"
+"2022","6.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV15 Serotypes"
+"2022","4.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV20 Serotypes"
+"2022","3.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV20 Serotypes"
+"2022","7.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV20 Serotypes"
+"2022","8.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV20 Serotypes"
+"2022","3.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV21 Serotypes"
+"2022","10.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV21 Serotypes"
+"2022","14.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV21 Serotypes"
+"2022","4.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PPSV23 Serotypes"
+"2022","9.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PPSV23 Serotypes"
+"2022","10.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PPSV23 Serotypes"
+"2023","8.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","All Serotypes"
+"2023","5.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","All Serotypes"
+"2023","15","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","All Serotypes"
+"2023","22.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","All Serotypes"
+"2023","2.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV13 Serotypes"
+"2023","2.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV13 Serotypes"
+"2023","5.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV13 Serotypes"
+"2023","6.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV13 Serotypes"
+"2023","4.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV15 Serotypes"
+"2023","3.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV15 Serotypes"
+"2023","7.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV15 Serotypes"
+"2023","9.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV15 Serotypes"
+"2023","5.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV20 Serotypes"
+"2023","4.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV20 Serotypes"
+"2023","9.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV20 Serotypes"
+"2023","12","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV20 Serotypes"
+"2023","4.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV21 Serotypes"
+"2023","11.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV21 Serotypes"
+"2023","17.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV21 Serotypes"
+"2023","4.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PPSV23 Serotypes"
+"2023","11.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PPSV23 Serotypes"
+"2023","14.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PPSV23 Serotypes"
+"2024","7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","All Serotypes"
+"2024","6.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","All Serotypes"
+"2024","15.8","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","All Serotypes"
+"2024","22.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","All Serotypes"
+"2024","1.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV13 Serotypes"
+"2024","2.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV13 Serotypes"
+"2024","6.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV13 Serotypes"
+"2024","7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV13 Serotypes"
+"2024","2.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV15 Serotypes"
+"2024","3.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV15 Serotypes"
+"2024","7.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV15 Serotypes"
+"2024","9.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV15 Serotypes"
+"2024","3.5","Per 100,000 population","Streptococcus pneumoniae","Serotypes","<5 year old","PCV20 Serotypes"
+"2024","4.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV20 Serotypes"
+"2024","9.6","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV20 Serotypes"
+"2024","12.3","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV20 Serotypes"
+"2024","4.2","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PCV21 Serotypes"
+"2024","11.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PCV21 Serotypes"
+"2024","18.7","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PCV21 Serotypes"
+"2024","4.9","Per 100,000 population","Streptococcus pneumoniae","Serotypes","19-49 years old","PPSV23 Serotypes"
+"2024","12.1","Per 100,000 population","Streptococcus pneumoniae","Serotypes","50-64 years old","PPSV23 Serotypes"
+"2024","14.4","Per 100,000 population","Streptococcus pneumoniae","Serotypes","≥65 years old","PPSV23 Serotypes"

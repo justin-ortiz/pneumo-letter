@@ -1,0 +1,9 @@
+Age group	IPD rate reduction per 100,000 (95% CI)	IPD cases averted (95% CI)	IPD deaths averted (95% CI)	IPD and nonbacteremic pneumococcal pneumonia cases averted (95% CI)	IPD and nonbacteremic pneumococcal pneumonia deaths averted (95% CI)
+Early childhood PCV13 period, 2011–2013					
+50 to 64 years	12.0 (10.8–13.3)	470 (420–510)	47 (41–55)	1,230 (930–1,710)	69 (52–96)
+65 years or older	36.7 (34.6–38.9)	1,280 (1,210–1,360)	197 (178–217)	4,040 (3,050–5,760)	392 (302–545)
+50 years or older		1,750 (1,660–1,840)	245 (225–265)	5,260 (4,000–7,450)	461 (366–627)
+Postpandemic period, 2023–2024					
+50 to 64 years	11.8 (10.5–13.1)	530 (470–590)	55 (46–64)	1,400 (1,060–1,940)	79 (59–110)
+65 years or older	38.6 (36.5–40.7)	1,980 (1,870–2,080)	279 (249–310)	6,210 (4,690–8,870)	578 (440–812)
+50 years or older		2,510 (2,380–2,630)	334 (303–366)	7,600 (5,780–10,770)	658 (513–905)
